@@ -20,11 +20,7 @@
 	gap:8px;
 }
 
-.secondary-container{
-	position:relative;
-}
 .author{
-	position:absolute;
-	bottom:0;
-	right:20px;
+	text-align:right;
 }
+
